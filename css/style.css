@@ -92,3 +92,13 @@ html {
 .footer {
     color: beige;
 }
+
+.item-list{
+    cursor: pointer;
+     font-size: 25px;
+      letter-spacing: 1px;
+}
+
+.item-list:hover{
+    color: rgba(17, 233, 233, 0.767);
+}
